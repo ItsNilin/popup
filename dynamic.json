@@ -1,18 +1,18 @@
 {
    "topLeft": "https://raw.githubusercontent.com/ItsNilin/popup/main/adherememe.jpg",
-   "TL_Enabled": "0",
+   "TL_Enabled": "1",
 
    "topCenter": "https://raw.githubusercontent.com/ItsNilin/popup/main/adblockmeme.png",
-   "TC_Enabled": "0",
+   "TC_Enabled": "1",
 
    "topRight": "https://raw.githubusercontent.com/ItsNilin/popup/main/inareameme.png",
-   "TR_Enabled": "0",
+   "TR_Enabled": "1",
 
    "midLeft": "https://raw.githubusercontent.com/ItsNilin/popup/main/fnafpostermeme.jpg",
    "ML_Enabled": "0",
 
    "midCenter": "https://raw.githubusercontent.com/ItsNilin/popup/main/popup1.png",
-   "MC_Enabled": "0",
+   "MC_Enabled": "1",
 
    "midRight": "https://raw.githubusercontent.com/ItsNilin/popup/main/mcdmeme.jpg",
    "MR_Enabled": "0",
@@ -21,8 +21,8 @@
    "BL_Enabled": "1",
 
    "botCenter": "https://raw.githubusercontent.com/ItsNilin/popup/main/dlmeme.png",
-   "BC_Enabled": "0", 
+   "BC_Enabled": "1", 
 
    "botRight": "https://raw.githubusercontent.com/ItsNilin/popup/main/bonzimeme.gif",
-   "BR_Enabled": "0"
+   "BR_Enabled": "1"
 }
