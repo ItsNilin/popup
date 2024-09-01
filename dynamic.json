@@ -1,28 +1,28 @@
 {
    "topLeft": "null",
-   "TL_Enabled": "0"
+   "TL_Enabled": "0",
 
    "topCenter": "null",
-   "TC_Enabled": "0"
+   "TC_Enabled": "0",
 
    "topRight": "null",
    "TR_Enabled": "0",
-   
+
    "midLeft": "null",
    "ML_Enabled": "0",
-   
+
    "midCenter": "https://raw.githubusercontent.com/ItsNilin/popup/main/popup1.png",
    "MC_Enabled": "1",
-   
+
    "midRight": "null",
    "MR_Enabled": "0",
-   
+
    "botLeft": "null",
    "BL_Enabled": "0",
-   
+
    "botCenter": "null",
-   "BC_enabled": "0",
-   
+   "BC_enabled": "0", 
+
    "botRight": "null",
    "BR_Enabled": "0"
 }
