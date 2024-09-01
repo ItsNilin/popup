@@ -21,7 +21,7 @@
    "BL_Enabled": "1",
 
    "botCenter": "https://raw.githubusercontent.com/ItsNilin/popup/main/dlmeme.png",
-   "BC_enabled": "0", 
+   "BC_Enabled": "0", 
 
    "botRight": "https://raw.githubusercontent.com/ItsNilin/popup/main/bonzimeme.gif",
    "BR_Enabled": "0"
