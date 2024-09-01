@@ -18,7 +18,7 @@
    "MR_Enabled": "0",
 
    "botLeft": "https://raw.githubusercontent.com/ItsNilin/popup/main/chicken.jpg",
-   "BL_Enabled": "0",
+   "BL_Enabled": "1",
 
    "botCenter": "null",
    "BC_enabled": "0", 
